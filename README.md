@@ -1,4 +1,4 @@
-# startup-feasibility-project-mamachi-vadi
+# startup-feasibility-project-agri-tourism
 Corporate Finance project evaluating the financial feasibility of an agri-tourism startup in Goa using WACC, NPV, IRR, Payback Period, and cash flow analysis.
 
 # Startup Feasibility Project – Mamachi Vadi
